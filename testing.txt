@@ -1,0 +1,8 @@
+Tap	Xpath	//*[@text='OK']	
+Tap	Xpath	//*[@text='ALLOW']	
+Tap	Xpath	//*[@text='ACCEPT']	
+Tap	Xpath	//*[@text='ACCEPT']	
+Tap	Xpath	//*[@text='Login with HVAC Partners']	
+Sendkeys	Xpath	//*[@text='Username']	CSVCTECHTEST
+Sendkeys	Xpath	//*[@text='Password']	stgQTR00
+Tap	Xpath	//*[@text='Login']	

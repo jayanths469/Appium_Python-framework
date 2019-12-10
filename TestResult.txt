@@ -1,0 +1,15 @@
+Locatorname	Action	Status	Locator	ReadText
+TappingonOk	Tap	Pass	//*[@text='OK']
+Tappingonallow	Tap	Pass	//*[@text='ALLOW']
+		Script failed with exception'WebElement' object has no attribute 'tex'		
+TappingonAccept	Tap	Pass	//*[@text='ACCEPT']
+TappingonAccept	Tap	Pass	//*[@text='ACCEPT']
+		Script failed with exception'WebElement' object has no attribute 'tex'		
+TappingonLoginwithHVAC	Tap	Pass	//*[@text='Login with HVAC Partners']
+EnteringUsername	Sendkeys	Pass	//*[@text='Username']
+EnteringPassword	Sendkeys	Pass	//*[@text='Password']
+TappingonLogin	Tap	Pass	//*[@text='Login']
+standard general wait	Standardwait	Waited user defined time	
+Tappingonallow	Tap	Pass	//*[@text='ALLOW']
+		Script failed with exceptionMessage: An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: 404 - undefined
+		

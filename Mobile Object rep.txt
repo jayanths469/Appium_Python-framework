@@ -1,0 +1,7 @@
+Locator name	Action	User input	find element by Xpath	find element by ID	find element by class	find element by Accessibility ID	find element by Css	Standard wait time
+TappingonOk	Tap		//*[@text='OK']					
+TakingScreenshot	Screenshot	Loginscreen						
+Tappingonallow	Tap		//*[@text='ALLOW']					
+ReadingAccept	GetText	ACCEPT	//*[@text='ACCEPT']					
+TappingonAccept	Tap		//*[@text='ACCEPT']					
+TappingonAccept	Tap		//*[@text='ACCEPT']					
