@@ -1,5 +1,5 @@
 devicename = "Samsung Galaxy  S7 edge"
 platform = "android"
-apppackage = "com.carrier.caservicetech"
-appactivity = "com.carrier.caservicetech.MainActivity"
+apppackage = ""
+appactivity = ""
 platfromversion = "8.0"
